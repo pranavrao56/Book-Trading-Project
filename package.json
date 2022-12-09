@@ -1,8 +1,8 @@
 {
-  "name": "fcc-book-trading-club",
-  "version": "0.0.0",
+  "name": "book-trading-project",
+  "version": "0.0.1",
   "private": true,
-  "author": "Jennifer Bland",
+  "author": "Pranav, Atharva, Vinayak, Rohit",
   "scripts": {
     "start": "node server",
     "test": "mocha test"
@@ -29,5 +29,19 @@
     "request": "^2.72.0",
     "should": "^8.3.1",
     "supertest": "^6.3.3"
-  }
+  },
+  "description": "Online Book Trading Application using MongoDB database and displayed with Node.js and Express.js.",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavrao56/Book-Trading-Project.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavrao56/Book-Trading-Project/issues"
+  },
+  "homepage": "https://github.com/pranavrao56/Book-Trading-Project#readme"
 }
